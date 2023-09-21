@@ -19,12 +19,11 @@
 </a>
  </p>
 </div>
-
-### :woman_technologist: About Me : 
-:woman_student:I'm Amagarou Fatima zahrae.<br  />
+<h2>:woman_student: About Me</h2>   
+ I'm Amagarou Fatima zahrae.<br  />
 I'm a Software Engineering Student at ENSA of Tetouan, deeply passionate about web development. I'm committed to always learning and growing in this ever-changing field. As a coding enthusiast, I'm always exploring the latest technologies and tools to create impressive, user-friendly web applications. I'm skilled in both making websites look great and work smoothly on the front-end, where I focus on creating attractive user interfaces for exceptional user experiences. On the back-end, I'm good at building the technology that powers web applications, making them robust and efficient. My natural inclination for problem-solving drives me to continually seek innovative approaches to overcome challenges, and I am dedicated to continuous improvement, always striving to enhance my skills and the solutions I create.<br  />
-:information_desk_person:My interests:<br  />
-Fields of interests : <br  />
+:information_desk_person:Fields of interests:<br  />
+
  :computer: Web Development <br  />
  :gear: DevOps 
 ### :hammer_and_wrench: Languages and Tools:
