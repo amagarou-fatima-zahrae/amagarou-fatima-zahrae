@@ -1,4 +1,4 @@
-[![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)]
+![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Amagarou fatima zahrae</h1>
 <h3 align="center">II'm a Software Engineering Student at ENSA of Tetouann</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amagarou-fatima-zahrae&label=Profile%20views&color=0e75b6&style=flat" alt="amagarou-fatima-zahrae" /> </p>
